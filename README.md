@@ -46,4 +46,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@hoya.ai) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fokura)
 
 #### Дополнительная навигация
-[Rusprofile](https://www.rusprofile.ru/ip/319450100018975) | [Политика безопасности](./security.md) | [Политика возвратов платежей](./refund-policy.md)
+[Политика безопасности](./security.md) | [Политика возвратов платежей](./refund-policy.md)
